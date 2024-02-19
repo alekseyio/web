@@ -1,0 +1,12 @@
+{
+  "name": "@tools/tailwind",
+  "version": "0.0.0",
+  "main": "./index.ts",
+  "dependencies": {
+    "@tools/typescript": "*",
+    "tailwindcss": "3.4.1"
+  },
+  "devDependencies": {
+    "typescript": "5.3.3"
+  }
+}
