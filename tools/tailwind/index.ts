@@ -1,7 +1,7 @@
-import { Config } from "tailwindcss";
+import { Config } from 'tailwindcss';
 
 const twConfig: Config = {
-  content: ["./src/**/*.tsx"],
+  content: ['./src/**/*.tsx'],
 };
 
 export default twConfig;
